@@ -1,0 +1,29 @@
+appId: com.oraxenstudio.app
+productName: Oraxen Studio
+directories:
+  buildResources: build
+files:
+  - out/**/*
+  - package.json
+  - '!**/.vscode/*'
+  - '!src/*'
+  - '!test/*'
+  - '!electron.vite.config.ts'
+  - '!tsconfig*.json'
+asarUnpack:
+  - resources/**
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+    - target: portable
+      arch:
+        - x64
+  artifactName: ${productName}-${version}-${arch}-setup.${ext}
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+publish: null

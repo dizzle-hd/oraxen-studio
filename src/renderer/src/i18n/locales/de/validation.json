@@ -1,0 +1,13 @@
+{
+  "duplicateItemId": "Item-ID \"{{id}}\" ist mehrfach vorhanden",
+  "missingTexture": "Textur \"{{relPath}}\" fehlt in der Asset-Bibliothek",
+  "missingModel": "Modell \"{{relPath}}\" fehlt in der Asset-Bibliothek",
+  "invalidMaterial": "\"{{material}}\" ist kein bekanntes Minecraft-Material",
+  "invalidDisplayName": "Anzeigename enthält ungültige Formatierung: {{message}}",
+  "customVariationDuplicate": "custom_variation {{value}} wird bereits von Item \"{{otherItemId}}\" verwendet",
+  "durability": {
+    "valueMustBePositive": "Haltbarkeitswert muss größer als 0 sein"
+  },
+  "noItemsWarning": "Das Projekt enthält noch keine Items",
+  "packIconMissing": "Kein Pack-Icon (pack.png) ausgewählt"
+}

@@ -1,0 +1,11 @@
+onyx_axe:
+  displayname: "<black>Onyx Axe"
+  material: DIAMOND_AXE
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - onyx_axe.png
+  Mechanics:
+    durability:
+      value: 20000

@@ -1,0 +1,52 @@
+{
+  "app": {
+    "title": "Oraxen Studio",
+    "subtitle": "Pack builder for the Oraxen plugin"
+  },
+  "nav": {
+    "project": "Project",
+    "items": "Items",
+    "assets": "Assets",
+    "packSettings": "Pack Settings",
+    "validation": "Validation",
+    "export": "Export"
+  },
+  "project": {
+    "newProject": "New Project",
+    "openProject": "Import Existing Folder",
+    "name": "Project Name",
+    "location": "Location",
+    "chooseFolder": "Choose Folder",
+    "createButton": "Create Project",
+    "importButton": "Import Folder",
+    "noProject": "No project open",
+    "noProjectHint": "Create a new project or import an existing plugins/Oraxen folder.",
+    "minecraftVersion": "Minecraft Version",
+    "importedFilesCount": "{{count}} file(s) imported"
+  },
+  "assets": {
+    "title": "Asset Library",
+    "import": "Import Textures/Models",
+    "dropHint": "Drag PNG textures or JSON models here, or click to select",
+    "noAssets": "No assets imported yet",
+    "texture": "Texture",
+    "model": "Model",
+    "relPath": "Path in pack"
+  },
+  "export": {
+    "title": "Export",
+    "exportFolder": "Export as Folder",
+    "exportZip": "Export as ZIP",
+    "chooseTarget": "Choose target folder",
+    "chooseZipTarget": "Save ZIP file as",
+    "success": "Export successful: {{count}} files written",
+    "error": "Export failed: {{error}}",
+    "blockedByErrors": "Export blocked: please fix validation errors first",
+    "exportAnyway": "Export anyway"
+  },
+  "language": {
+    "label": "Language",
+    "de": "German",
+    "en": "English"
+  }
+}

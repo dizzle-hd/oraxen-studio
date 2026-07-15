@@ -1,0 +1,31 @@
+{
+  "title": "Items",
+  "newItem": "Neues Item",
+  "itemId": "Item-ID",
+  "displayName": "Anzeigename",
+  "material": "Material",
+  "permission": "Berechtigung (optional)",
+  "noItems": "Noch keine Items angelegt",
+  "pack": {
+    "title": "Pack (Textur/Modell)",
+    "mode": "Modus",
+    "modeGenerated": "Automatisch generiert (2D-Textur-Layer)",
+    "modeCustomModel": "Eigenes Modell (Blockbench-JSON)",
+    "modeNone": "Kein eigenes Aussehen",
+    "parentModel": "Parent-Modell",
+    "textures": "Texturen (Layer-Reihenfolge)",
+    "addTexture": "Textur hinzufügen",
+    "customModel": "Modell-Datei",
+    "iconPreview": "Icon-Vorschau"
+  },
+  "mechanics": {
+    "title": "Mechaniken",
+    "addMechanic": "Mechanik hinzufügen",
+    "removeMechanic": "Entfernen"
+  },
+  "yamlView": {
+    "title": "YAML-Quelle"
+  },
+  "deleteItem": "Item löschen",
+  "deleteConfirm": "Item \"{{id}}\" wirklich löschen?"
+}

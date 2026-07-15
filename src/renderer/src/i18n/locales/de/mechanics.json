@@ -1,0 +1,49 @@
+{
+  "durability": {
+    "label": "Haltbarkeit (durability)",
+    "value": "Haltbarkeitswert",
+    "itemDamageOnHit": "Schaden bei Treffer",
+    "itemDamageOnBlockBreak": "Schaden beim Blockabbau",
+    "removeUnbreakable": "Unbreakable-Flag entfernen"
+  },
+  "furniture": {
+    "label": "Möbel (furniture)",
+    "type": "Typ",
+    "rotatable": "Drehbar",
+    "restrictedRotation": "Rotations-Einschränkung",
+    "barrier": "Barriere-Hitbox",
+    "light": "Lichtstufe",
+    "seatHeight": "Sitzhöhe",
+    "storageEnabled": "Als Lagerbehälter nutzen",
+    "storageRows": "Lagerreihen",
+    "storageTitle": "Titel des Lagerbehälters"
+  },
+  "noteblock": {
+    "label": "NoteBlock-Block",
+    "customVariation": "custom_variation",
+    "customVariationHint": "Muss projektweit eindeutig sein (gemeinsamer Pool mit stringblock)",
+    "hardness": "Härte",
+    "light": "Lichtstufe",
+    "isFalling": "Fällt wie Sand"
+  },
+  "stringblock": {
+    "label": "StringBlock-Block",
+    "customVariation": "custom_variation",
+    "customVariationHint": "Muss projektweit eindeutig sein (gemeinsamer Pool mit noteblock)",
+    "hardness": "Härte"
+  },
+  "armorComponents": {
+    "label": "Custom-Rüstung (Components, 1.21.2+)",
+    "experimentalNote": "Vereinfachte Abdeckung – bitte Feldnamen vor Produktiveinsatz gegen die aktuelle Oraxen-Doku prüfen.",
+    "color": "Farbe (Hex)",
+    "trimMaterial": "Trim-Material",
+    "trimPattern": "Trim-Muster"
+  },
+  "armorTrims": {
+    "label": "Custom-Rüstung (Trims, 1.20–1.21.1)",
+    "experimentalNote": "Vereinfachte Abdeckung – bitte Feldnamen vor Produktiveinsatz gegen die aktuelle Oraxen-Doku prüfen.",
+    "baseArmorMaterial": "Basis-Rüstungsmaterial",
+    "trimMaterial": "Trim-Material",
+    "trimPattern": "Trim-Muster"
+  }
+}

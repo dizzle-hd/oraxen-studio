@@ -1,0 +1,13 @@
+{
+  "duplicateItemId": "Item ID \"{{id}}\" is used more than once",
+  "missingTexture": "Texture \"{{relPath}}\" is missing from the asset library",
+  "missingModel": "Model \"{{relPath}}\" is missing from the asset library",
+  "invalidMaterial": "\"{{material}}\" is not a known Minecraft material",
+  "invalidDisplayName": "Display name contains invalid formatting: {{message}}",
+  "customVariationDuplicate": "custom_variation {{value}} is already used by item \"{{otherItemId}}\"",
+  "durability": {
+    "valueMustBePositive": "Durability value must be greater than 0"
+  },
+  "noItemsWarning": "The project doesn't contain any items yet",
+  "packIconMissing": "No pack icon (pack.png) selected"
+}

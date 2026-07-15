@@ -1,0 +1,49 @@
+{
+  "durability": {
+    "label": "Durability",
+    "value": "Durability value",
+    "itemDamageOnHit": "Damage on hit",
+    "itemDamageOnBlockBreak": "Damage on block break",
+    "removeUnbreakable": "Remove unbreakable flag"
+  },
+  "furniture": {
+    "label": "Furniture",
+    "type": "Type",
+    "rotatable": "Rotatable",
+    "restrictedRotation": "Rotation restriction",
+    "barrier": "Barrier hitbox",
+    "light": "Light level",
+    "seatHeight": "Seat height",
+    "storageEnabled": "Use as storage container",
+    "storageRows": "Storage rows",
+    "storageTitle": "Storage container title"
+  },
+  "noteblock": {
+    "label": "NoteBlock block",
+    "customVariation": "custom_variation",
+    "customVariationHint": "Must be unique project-wide (shared pool with stringblock)",
+    "hardness": "Hardness",
+    "light": "Light level",
+    "isFalling": "Falls like sand"
+  },
+  "stringblock": {
+    "label": "StringBlock block",
+    "customVariation": "custom_variation",
+    "customVariationHint": "Must be unique project-wide (shared pool with noteblock)",
+    "hardness": "Hardness"
+  },
+  "armorComponents": {
+    "label": "Custom Armor (Components, 1.21.2+)",
+    "experimentalNote": "Simplified coverage - please verify field names against the current Oraxen docs before production use.",
+    "color": "Color (hex)",
+    "trimMaterial": "Trim material",
+    "trimPattern": "Trim pattern"
+  },
+  "armorTrims": {
+    "label": "Custom Armor (Trims, 1.20-1.21.1)",
+    "experimentalNote": "Simplified coverage - please verify field names against the current Oraxen docs before production use.",
+    "baseArmorMaterial": "Base armor material",
+    "trimMaterial": "Trim material",
+    "trimPattern": "Trim pattern"
+  }
+}
